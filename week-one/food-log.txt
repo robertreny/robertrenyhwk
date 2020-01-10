@@ -1,2 +1,4 @@
 Stir fry chicken and vegetables. Chicken and vegetable mix from Trader Joes and glass thai noodles from market.git config --global credential.helper cache #(set Git to use credential memory cache)
 git config --global credential.helper 'cache --timeout=3600' #(cache timeout after 1 hour (in secs))
+
+Raspberries, blackberries, black tea and toast for breakfast 1/10 
