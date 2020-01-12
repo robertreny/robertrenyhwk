@@ -5,3 +5,5 @@ git config --global credential.helper 'cache --timeout=3600' #(cache timeout aft
 Raspberries, blackberries, black tea and toast for breakfast 1/10 
 
 Pork loin, spaghetti, and carrots and peppers for dinner 1/10
+
+Vegetable and sausage omelette with an iced latte at lunch time 1/11
