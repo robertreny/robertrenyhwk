@@ -1,0 +1,16 @@
+1 abc
+2 123
+3 ...\.
+4 [cfm]an
+5 [hd]og
+6 [ABC]..
+7 waz{3,5}up
+8 a+b*c+
+9 \d+ files? found\?
+10 \s
+11 ^Mission: successful
+12 (^file.+)\.
+13  (\w+ (\d+))
+14 (\d{4})x(\d+)
+15 I love (cats|dogs)
+16 . works but tried \w+\b \w+\b (\d+|\w+) \w+\b \w+\b \w+\b \w+\b (\d+...|\w+) (\w+\b|\w+\b \w+\b \w+\b\.|\w+\b \W)
