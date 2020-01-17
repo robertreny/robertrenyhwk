@@ -1,0 +1,16 @@
+\b[sS]\w+\b
+
+\b\w+\b\.
+
+[A-Za-z0-9\:\,\-\;\'\"\\’\s)(]+[\.\?]
+
+(How)[A-Za-z,:;'"()\s]+(variation)
+
+
+Extra credit: ^Natural|(?<=[\.\?]\s)[A-Za-z,:;'"()]+ (?=\s) 
+
+Using look ahead and look behind I specify a selection following a end of sentence 
+punctuation that is any words or punctuation (since no first word had numbers). The
+selection was to stop at the space after the word. This did not select the first word
+"Natural" so I added an or command to select it. the ^ works for this because the whole
+paragraph is treated as a string so only the first Natural is selected. 
