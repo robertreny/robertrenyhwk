@@ -1,0 +1,30 @@
+  447  cd ..
+  448  cd robertrenyhwk
+  449  ls
+  450  mv paragraphs.txt ./eeb-c177-hwk/class-assignments/homework-2
+  451  cd eeb-c177-hwk
+  452  cd class-assignments
+  453  cd homework-2
+  454  ls
+  455  cd homework-2
+  456  ls /f
+  457  ls -f
+  458  view homework-2
+  459  mv homework-2.txt ./paragraphs.txt
+  460  mv homework-2 ./paragraphs.txt
+  461  ls
+  462  mkdir homework-two
+  463  mv paragraphs.txt ./homework-two
+  464  cd homework-two
+  465  ls
+  466  git add -A
+  467  git commit -m "pargraphs.txt"
+  468  git push origin master
+  469  mv paragraphs.txt ./easy-question.txt
+  470  git add -A
+  471  git commit -m "easy-question"
+  472  git push origin master
+  473  touch hw2-part1-coommands.txt
+  474  history 30
+  475  print history 30 -> hw2-part1-commands.txt
+  476  history 30 > hw2-part1-coommands.txt
