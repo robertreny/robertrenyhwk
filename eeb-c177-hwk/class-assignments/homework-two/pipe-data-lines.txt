@@ -1,0 +1,10 @@
+      7 /home/eebc177student/Developer/repos/CSB/unix/data/Buzzard2015_about.txt
+    314 /home/eebc177student/Developer/repos/CSB/unix/data/Buzzard2015_data.csv
+      8 /home/eebc177student/Developer/repos/CSB/unix/data/Gesquiere2011_about.txt
+   2433 /home/eebc177student/Developer/repos/CSB/unix/data/Gesquiere2011_data.csv
+      9 /home/eebc177student/Developer/repos/CSB/unix/data/Marra2014_about.txt
+   9515 /home/eebc177student/Developer/repos/CSB/unix/data/Marra2014_data.fasta
+      8 /home/eebc177student/Developer/repos/CSB/unix/data/Pacifici2013_about.txt
+   5427 /home/eebc177student/Developer/repos/CSB/unix/data/Pacifici2013_data.csv
+      8 /home/eebc177student/Developer/repos/CSB/unix/data/Saavedra2013_about.txt
+  17729 total
