@@ -1,0 +1,20 @@
+  435  git commit -m"moved class assignments up a directory"
+  436  git push origin master
+  437  cd Developer/repos/CSB/unix/data
+  438  ls
+  439  head 25 Pacifici2013_data.csv
+  440  man head
+  441  head -n 25 Pacifici2013_data.csv
+  442  head -n 25 Pacifici2013_data.csv > ~/Developer/repos/
+  443  ls ~/Developer -f
+  444  ls ~/Developer/repos -f
+  445  head -n 25 Pacifici2013_data.csv | wc 
+  446  head -n 25 Pacifici2013_data.csv | wc -l
+  447  head -n 25 Pacifici_2013_data.csv | wc -l > ~/Developer/repos/robertrenyhwk/eeb-c177-hwk/class-assignments/homework-two/Pacifici-25wordcount.txt
+  448  head -n 25 Pacifici2013_data.csv | wc -l > ~/Developer/repos/robertrenyhwk/eeb-c177-hwk/class-assignments/homework-two/Pacifici-25wordcount.txt
+  449  cd ..
+  450  cd robertrenyhwk/eeb-c177-hwk/class-assignments/homework-two
+  451  ls
+  452  history 25
+  453  history 10
+  454  history 20 > ./hw2-part2-commands-1.txt
