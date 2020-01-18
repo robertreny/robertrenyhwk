@@ -1,0 +1,20 @@
+  513  cd ..
+  514  cd robertrenyhwk/eeb-c177-hwk/class-assignments/homework-two
+  515  ls
+  516  git add -A
+  517  git commit -m "pacificidelim"
+  518  git push origin master
+  519  man head
+  520  head n-10 Pacifici2013_data.csv
+  521  head n- 10 Pacifici2013_data.csv
+  522  head -n 10 Pacifici2013_data.csv
+  523  head -n 10 ~/Developer/repos/CSB/unix/data/Pacifici2013_data.csv
+  524  head -n 10 ~/Developer/repos/CSB/unix/data/Pacifici2013_data.csv | cut -d ";" -f 3
+  525  tail -n 5  ~/Developer/repos/CSB/unix/data/Pacifici2013_data.csv
+  526  tail +2  ~/Developer/repos/CSB/unix/data/Pacifici2013_data.csv
+  527  tail +2  ~/Developer/repos/CSB/unix/data/Pacifici2013_data.csv | head n- 10 
+  528  tail +2  ~/Developer/repos/CSB/unix/data/Pacifici2013_data.csv | head -n 10 
+  529  tail +2  ~/Developer/repos/CSB/unix/data/Pacifici2013_data.csv | head -n 10  > Pacifici-ten.txt
+  530  touch hw2-part3-commands.txt
+  531  history 20
+  532  history 20 > hw2-part3-commands.txt
