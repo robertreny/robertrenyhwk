@@ -1,0 +1,20 @@
+  438  ls
+  439  cd eeb-c177-hwk
+  440  ls
+  441  cd class-assignments
+  442  ls
+  443  cd homework-two
+  444  ls
+  445  cat fish_species.txt
+  446  sort fish_species.txt
+  447  sort fish_species.txt > fishes_sort.txt
+  448  rev-sort fish_species.txt
+  449  man sort
+  450  sort -r fish_species.txt
+  451  sort -r fish_species.txt > fishes-rev-sort.txt
+  452  sort man
+  453  man sort
+  454  sort -u fish_species.txt
+  455  sort -u fish_species.txt > fishes-unique.txt
+  456  history 20
+  457  history 20 > hw2-part4-commands.txt
