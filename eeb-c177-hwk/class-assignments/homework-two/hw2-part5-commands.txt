@@ -1,0 +1,20 @@
+  445  ls
+  446  cat Pacifici2013_data.csv
+  447  man tail
+  448  tail -n +2 Pacifici2013_data.csv
+  449  tail -n +2 Pacifici2013_data.csv > test.txt
+  450  head test.txt
+  451  man cut
+  452  cut -d ';'  Pacifici2013_data.csv
+  453  cut --help
+  454* 
+  455  tail -n +2 Pacifici2013_data.csv | cut -d ';' -f 2-6 
+  456  tail -n +2 Pacifici2013_data.csv | cut -d ';' -f 2-6 | tr ';' ' '
+  457  tail -n +2 Pacifici2013_data.csv | cut -d ';' -f 2-6 | tr ';' ' ' | sort -r -n -k 6
+  458  tail -n +2 Pacifici2013_data.csv | cut -d ';' -f 2-6 | tr ';' ' ' | sort -r -n -k 6 > ~/Developer/repos/robertrenyhwk/eeb-c177-hwk/class-assignments/week-two/bodym.csv
+  459  tail -n +2 Pacifici2013_data.csv | cut -d ';' -f 2-6 | tr ';' ' ' | sort -r -n -k 6 > ~/Developer/repos/robertrenyhwk/eeb-c177-hwk/class-assignments/bodym.csv
+  460  history 10 > ~/Developer/repos/robertrenyhwk/eeb-c177-hwk/class-assignments/bodym.csv
+  461  tail -n +2 Pacifici2013_data.csv | cut -d ';' -f 2-6 | tr ';' ' ' | sort -r -n -k 6 > ~/Developer/repos/robertrenyhwk/eeb-c177-hwk/class-assignments/bodym.csv
+  462  history 10 > ~/Developer/repos/robertrenyhwk/eeb-c177-hwk/class-assignments/hw2-part5-commands.txt
+  463  histor 20 > ~/Developer/repos/robertrenyhwk/eeb-c177-hwk/class-assignments/hw2-part5-commands.txt
+  464  history 20 > ~/Developer/repos/robertrenyhwk/eeb-c177-hwk/class-assignments/hw2-part5-commands.txt
