@@ -1,0 +1,25 @@
+  444  cd sandbox
+  445  ls
+  446  man ls
+  447  ls -s -h Marra2014_data.fasta
+  448  mv Marra2014_data.fasta > ./my_file.fasta
+  449  mv Marra2014_data.fasta ./my_file.fasta
+  450  ls
+  451  head my_file.fasta
+  452  cat my_file.fasta
+  453  less my_file.fasta
+  454  sort my_file.fasta
+  455  man less
+  456  grep isogroup00036 my_file.fasta
+  457  grep -c isogroup00036 my_file.fasta
+  458  tr "  " "," my_file.fasta
+  459  tr "  " "," 'my_file.fasta'
+  460  cat my_file.fasta | tr "  " ";"
+  461  cat my_file.fasta | tr "  " ";" > my_file.fasta
+  462  history 20 > 1.10.1_history 
+  463  history 20 > hw2-ec.txt
+
+size of file: 
+isogroup00036 contigs:
+unique isogroups:
+numreads  highest:
