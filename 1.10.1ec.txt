@@ -1,0 +1,20 @@
+  441  ls
+  442  ls -s -h Marra2014_data.fasta
+  443  grep isogroup00036 Marra2014_data.fasta
+  444  grep -c isogroup00036 Marra2014_data.fasta
+  445  grep -c isogroup Marra2014_data.fasta
+  446  man grep
+  447  man grep | sort --unique
+  448  grep isogroup Marra2014_data.fasta | sort --unique
+  449  grep isogroup Marra2014_data.fasta | sort --unique -c
+  450  grep gene=isogroup Marra2014_data.fasta | sort --unique
+  451  grep --only-matching gene=isogroup..... Marra2014_data.fasta | sort --unique
+  452  grep -c isogroup Marra2014_data.fasta
+  453  grep isogroup Marra2014_data.fasta
+  454  grep isogroup Marra2014_data.fasta | sort k - 3
+  455  grep isogroup Marra2014_data.fasta | sort -k 3
+  456* grep i | sort -n -k 3 
+  457  grep contig..... Marra2014_data.fasta
+  458  grep contig..... Marra2014_data.fasta | sort -c -k 3
+  459  grep contig..... Marra2014_data.fasta | sort -k 3
+  460  history 20 > ~/Developer/repos/robertrenyhwk/1.10.1ec.txt
