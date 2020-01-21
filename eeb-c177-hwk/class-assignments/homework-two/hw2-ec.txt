@@ -1,0 +1,10 @@
+size of file: 556 k
+isogroup00036 contigs: 16
+unique isogroups: 43
+most counts 2312 contig 00296
+
+1.10.2:
+
+66 total times invidiuals 3 and 27 recorded
+
+script: cut -f 1 Gesquiere2011_data.csv | grep -c -w $1 
