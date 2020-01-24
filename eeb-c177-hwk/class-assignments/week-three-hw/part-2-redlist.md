@@ -71,5 +71,7 @@ PROCELLARIIFORMES
 PTEROCLIFORMES
 STRIGIFORMES
 SULIFORMES
-1
-1
+
+grep AVES European_Red_List.csv | tail -n +2 | grep ACCIPITRIFORMES | cut -d "," -f 10 | grep -c 'EX\|RE\|CE'
+this works to go order by order but I want to do a loop command using the list of orders above. 
+I've tried along the line of making a variable $list equal to all of the orders then doing: for var in $list do grep $var done.  
